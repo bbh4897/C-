@@ -1,0 +1,9 @@
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\bin\Debug\İki Sayının Toplamı.exe.config
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\bin\Debug\İki Sayının Toplamı.exe
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\bin\Debug\İki Sayının Toplamı.pdb
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki_Sayının_Toplamı.Form1.resources
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki_Sayının_Toplamı.Properties.Resources.resources
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki Sayının Toplamı.csproj.GenerateResource.cache
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki Sayının Toplamı.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki Sayının Toplamı.exe
+D:\PROJELER\C#\İki Sayının Toplamı\İki Sayının Toplamı\obj\Debug\İki Sayının Toplamı.pdb
