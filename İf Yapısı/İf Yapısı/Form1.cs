@@ -25,6 +25,7 @@ namespace İf_Yapısı
             if(sayi < 10)
             {
                 label2.Text = "Sayı 10'dan küçüktür";
+                label2.ForeColor = Color.Yellow;
             }
             else
             {
